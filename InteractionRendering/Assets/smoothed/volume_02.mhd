@@ -1,0 +1,13 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = -1 0 0 0 -1 0 0 0 1
+Offset = 57.755432128906257 53.181285858154325 0
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = LPI
+ElementSpacing = 0.51798593997955322 0.51382887363433838 0.38870194554328918
+DimSize = 224 208 224
+ElementType = MET_FLOAT
+ElementDataFile = volume_02.raw
