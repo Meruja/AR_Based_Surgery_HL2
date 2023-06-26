@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace VolumeRendering
+namespace UnityVolumeRendering
 {
 
     public class Axis : MonoBehaviour {
