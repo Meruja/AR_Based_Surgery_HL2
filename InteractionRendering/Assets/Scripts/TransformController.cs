@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace VolumeRendering.Utils
+namespace UnityVolumeRendering.Utils
 {
 
     public class TransformController : MonoBehaviour {
